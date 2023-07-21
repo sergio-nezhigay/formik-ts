@@ -38,7 +38,7 @@ const App: React.FC = () => {
 
   return (
     <div className={styles.formContainer}>
-      <h1>Formik Example</h1>
+      <h1>ДЗ 27. formik</h1>
       <Formik
         initialValues={initialValues}
         validationSchema={validationSchema}
